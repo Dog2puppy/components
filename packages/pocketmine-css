@@ -1,0 +1,6 @@
+{
+  // REQUIRED: Name of package (needed to maintain backward compatibility with old registry)
+  "name": "PocketMine-CSS",
+  // REQUIRED: Repository URL that Bower should use to resolve package
+  "url": "https://github.com/Dog2puppy/PocketMine-CSS.git"
+}
